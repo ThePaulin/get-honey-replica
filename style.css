@@ -370,14 +370,14 @@ h1{
 
 .lvl7Container .lvl7 .topLvl7{
     color: #ffff;
-    margin-left: 700px;
+    margin-left: 500px;
 
 }
 
 
 
 .lvl7Container .lvl7 .bottomLvl7{
-    margin-left: 700px;
+    margin-left: 500px;
     display: grid;
     grid-template-columns: repeat(3,220px); /*220px*/
     justify-items: center;

@@ -1,0 +1,113 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="get.joinhoney.com_files/honey-icon2.jpg">
+    <title>get.honey.com</title>
+</head>
+<body>
+    <div class="lvl1">
+        <img src="get.joinhoney.com_files/9065fd23-52729316-0-honeybypaypal-logova_107j01k07a01k004000028.png" alt="honeybypaypal">
+        <div class="gridLvl1">
+            <div class="leftLvl1" style="font-size: xx-large;">
+                <div class="moto">
+                    <h1 >Online savings,<br> simplified</h1>
+                </div>
+                
+                <div class="starsLvl1">
+                    <div class="starsLvl1Line1">
+                        <img src="get.joinhoney.com_files/30ead25f-star-honey-rating.svg" width="95px" alt="stars"> 
+                        <p class="p1">Trusted by over 17 million members</p>
+                    </div>
+                    
+                      
+                     
+                </div>
+                <div class="starsLvl1Line2">
+                    <p class="p1">asdad</p>
+                </div> 
+            </div>
+            <div class="rightLvl1">
+                <img src="get.joinhoney.com_files/1gagm1r-honey-hero-image_10d20dv0d20do000000028.png" alt="">
+            </div>
+
+        </div>
+
+    </div>
+    <div class="lvl2">
+
+    </div>
+    <div class="lvl3"></div>
+    <div class="lvl4"></div>
+    <div class="lvl5"></div>
+    <div class="lvl6"></div>
+    <div class="lvl7"></div>
+    <div class="lvl8"></div>
+    <div class="lvl9"></div>
+
+
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    
+
+}
+.p1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    
+}
+.lvl1{
+    background-color: #fdd666;
+    padding-top: 3rem;
+    padding-left: 10rem;
+}
+.gridLvl1{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    margin-left:18rem;
+    column-gap: 0em;
+    
+
+}
+.gridLvl1 .leftLvl1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: max-content;
+    grid-template-rows: 10px 10px 10px 10px 10px;
+    
+    
+}
+
+.gridLvl1 .rightLvl1{
+    
+}
+.gridLvl1 .moto{
+    margin-top: 2em;
+}
+
+.gridLvl1 .leftLvl1 .starsLvl1{
+    max-width:40px;
+    font-size:medium;
+    align-items: center ;
+    display: grid;
+    grid-template-columns: auto 400px;
+    column-gap: 0;
+    
+}

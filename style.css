@@ -42,6 +42,7 @@ h1{
 .lvl1Container{
     align-items: center;
     background-color: #fdd666;
+    background-size: cover;
     width:140vw;
     
   
@@ -138,6 +139,7 @@ h1{
 
 .lvl2Container{
     background-color: #ffffff;
+    background-size: cover;
 }
 
 .lvl2Container .lvl2{
@@ -186,6 +188,7 @@ h1{
 .lvl3Container{
     color: #ffffff;
     background-color: #292a2a;
+    background-size: cover;
 }
 
 .lvl3Container .lvl3{
@@ -201,6 +204,7 @@ h1{
 
 .lvl4Container{
     background-color: #ffffff ;
+    background-size: cover;
     display: grid;
 }
 
@@ -266,6 +270,7 @@ h1{
 
 .lvl5Container{
     background-color: #edf1fe;
+    background-size: cover;
 }
 
 .lvl5 {
@@ -307,6 +312,7 @@ h1{
 
 .lvl6Container{
     background-color: #ffffff;
+    background-size: cover;
     height:100px;
 
 }
@@ -356,6 +362,7 @@ h1{
 /* Level 7*/
 .lvl7Container{
     background-color: #292a2a;
+    background-size: cover;
     height: 40vh;
     margin-top: -300px;
     
@@ -434,6 +441,7 @@ h1{
 
 .lvl9Container{
     background-color: #4f6c6c;
+    background-size: cover;
     height: 40vh;
     color: #ffff;
 }
